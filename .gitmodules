@@ -1,0 +1,3 @@
+[submodule "GildedRoseKataPython"]
+	path = GildedRoseKataPython
+	url = git@github.com:colecperry/GildedRoseKataPython.git
